@@ -1,0 +1,3 @@
+# Assets Folder
+
+This folder contains HTML files for interactive Plotly visualizations used in the project.
