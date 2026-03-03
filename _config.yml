@@ -1,5 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
-title: Rating the Recipe: A Data Story
-description: Investigating whether sugary recipes receive lower ratings on Food.com using statistical analysis and predictive modeling
+title: "Rating the Recipe: A Data Story"
+description: "Analyzing Recipe Ratings on Food.com"
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
