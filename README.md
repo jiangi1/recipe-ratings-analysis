@@ -94,7 +94,7 @@ I tested whether missing ratings depend on other columns using permutation tests
 
 The visualization below shows how sugar content differs between recipes with missing vs. present ratings:
 
-<iframe src="assets/missingness_plot.html" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="assets/missing_plot.html" width="100%" height="500" frameborder="0"></iframe>
 
 ## Hypothesis Testing
 
