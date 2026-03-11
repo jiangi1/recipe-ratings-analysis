@@ -113,8 +113,6 @@ The visualization below shows how sugar content differs between recipes with mis
 
 **Conclusion:** Since the p-value (0.0000) is less than 0.05, I **reject the null hypothesis**. There is statistically significant evidence that sugary recipes receive different ratings than non-sugary recipes. Interestingly, sugary recipes actually receive **slightly higher** average ratings (4.669 vs. 4.657), contrary to my initial expectation that they might be rated lower.
 
-<iframe src="assets/hypothesis_test.html" width="100%" height="500" frameborder="0"></iframe>
-
 ## Framing a Prediction Problem
 
 I built a model to predict a recipe's **average rating** as a continuous value.
